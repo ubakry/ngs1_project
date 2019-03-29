@@ -9,7 +9,9 @@ This project aims to practice most of the technologies and software you've learn
 
 - For each step, document your workflow and commands to reproduce the same expirement.
 - **Everything** must be reported and documented on Github.
-- Contribution
+- The assessement for the assignment will be for each team member indvidually as it will be reported by Github contribution section, so every indvidual must commit their own contributions by themselves.
+- Fork this project and start your start commiting.
+- Create a file named `team.md` and write down your team members alongside their **Nile Universty** addresses and **Student IDs**.
 
 ---
 
