@@ -29,13 +29,13 @@ Download ~25M Human RNA-Seq reads from the SRA.
 
 ## 3- FASTQ Quality Control
 
-- For **Sample 1** only, use FASTQC to report the difference between between S1_1 and S1_2
+- For **Sample 1** only, use FASTQC to report the difference between S1_1 and S1_2
 
 ## 4- Trimming
 
-- For **Sample 1** only, Apply:
-    - Mild Trimming for S1_1.
-    - Aggressive Trimming for S1_2
+- For **All Samples** only, Apply:
+    - Mild Trimming for SX_1. {Without shuffeling}
+    - Aggressive Trimming for S1_2. {After Shuffeling}
 
 ## 5- Alignment
 
