@@ -50,5 +50,5 @@ Download ~25M Human RNA-Seq reads from the SRA.
 
 ## 7- Apply Differential Expression.
 
-## 8- Using GTF-Compare Compare the reference and the generated annotation files.
+## 8- Using GTF-Compare to Compare the Generated Annotation Files to a Reference Annotation.
 
