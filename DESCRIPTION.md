@@ -48,7 +48,7 @@ Download ~25M Human RNA-Seq reads from the SRA.
     -  **Step1.** For the 5 samples (without shuffeling) parts.
     -  **Step2.** For the 5 samples (with shuffeling applied) parts.
 
-## 7- Apply Differential Expression.
+## 7- Using GTF-Compare to Compare the Generated Annotation Files to a Reference Annotation.
 
-## 8- Using GTF-Compare to Compare the Generated Annotation Files to a Reference Annotation.
+## 8- Apply Differential Expression.
 
