@@ -19,6 +19,7 @@ This project aims to practice most of the technologies and software you've learn
 ## 1- Data Download
 
 Download ~25M Human RNA-Seq reads from the SRA.
+Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 
 ## 2- Prepare the data
 
