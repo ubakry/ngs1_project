@@ -26,7 +26,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 - Construct 5 Samples, each sample contains two parts.
     - **Part 1:** 1M reads from the main reads file. (split the main file into 5 parts)
     - **Part 2:** Shuffle the main reads file, and take random 1M Reads. (split the shuffled file into 5 parts)
-    - **Example:** Sample 1 will be divided into S1_1 & S1_2, Shuffled and Un-Shaffled selected after shuffeling respectively.
+    - **Example:** Sample 1 will be divided into S1_1 & S1_2,  Un-Shaffled and shuffled, respectively.
 
 ## 3- FASTQ Quality Control
 
