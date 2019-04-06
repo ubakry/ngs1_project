@@ -36,7 +36,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 
 - For **All Samples** , Apply:
     - Mild Trimming for SX_1. {Without shuffeling}
-    - Aggressive Trimming for S1_2. {After Shuffeling}
+    - Aggressive Trimming for SX_2. {After Shuffeling}
 
 ## 5- Alignment
 
