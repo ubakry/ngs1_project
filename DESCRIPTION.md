@@ -26,7 +26,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 - Construct 5 Samples, each sample contains two parts
     - **Part 1:** 1M unique reads from the main reads file.
     - **Part 2:** Shuffle the main reads file, and take random 1M Reads.
-    - **Example:** Sample 1 will be divided into S1_1 & S1_2, Unique and Random selected after shuffeling respectively.
+    - **Example:** Sample 1 will be divided into S1_1 & S1_2, Shuffled and Un-Shaffled selected after shuffeling respectively.
 
 ## 3- FASTQ Quality Control
 
@@ -34,7 +34,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 
 ## 4- Trimming
 
-- For **All Samples** only, Apply:
+- For **All Samples** , Apply:
     - Mild Trimming for SX_1. {Without shuffeling}
     - Aggressive Trimming for S1_2. {After Shuffeling}
 
