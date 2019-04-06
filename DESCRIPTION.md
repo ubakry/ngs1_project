@@ -41,6 +41,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 ## 5- Alignment
 
 - Align all the samples (1:5) using **BWA** and **Hisat** against the human reference file.
+	- **BWA** for SX_1 and **HISAT** for SX_2
 - Export some useful statistics report for **each sample indvidually**.
 
 ## 6- Assembly
