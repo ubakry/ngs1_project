@@ -18,14 +18,14 @@ This project aims to practice most of the technologies and software you've learn
 
 ## 1- Data Download
 
-Download ~5M Human RNA-Seq reads from the SRA.
+Download ~5M Human RNA-Seq fragements from the SRA.
 Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 
 ## 2- Prepare the data
 
-- Construct 5 Samples, each sample contains two parts
-    - **Part 1:** 1M unique reads from the main reads file.
-    - **Part 2:** Shuffle the main reads file, and take random 1M Reads.
+- Construct 5 Samples, each sample contains two parts.
+    - **Part 1:** 1M reads from the main reads file. (split the main file into 5 parts)
+    - **Part 2:** Shuffle the main reads file, and take random 1M Reads. (split the shuffled file into 5 parts)
     - **Example:** Sample 1 will be divided into S1_1 & S1_2, Shuffled and Un-Shaffled selected after shuffeling respectively.
 
 ## 3- FASTQ Quality Control
@@ -52,4 +52,3 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 ## 7- Using GTF-Compare to Compare the Generated Annotation Files to a Reference Annotation.
 
 ## 8- Apply Differential Expression.
-
