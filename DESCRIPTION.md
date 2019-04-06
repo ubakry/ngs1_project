@@ -35,8 +35,8 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 ## 4- Trimming
 
 - For **All Samples** , Apply:
-    - Mild Trimming for SX_1. {Without shuffeling}
-    - Aggressive Trimming for SX_2. {After Shuffeling}
+    - Mild Trimming for SX_1. {unshuffled}
+    - Aggressive Trimming for SX_2. {unshuffled}
 
 ## 5- Alignment
 
@@ -47,8 +47,8 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 ## 6- Assembly
 
 - Apply reference-based trasncriptome assembly using stringTie.
-    -  **Step1.** For the 5 samples (without shuffeling) parts.
-    -  **Step2.** For the 5 samples (with shuffeling applied) parts.
+    -  **Step1.** For the 5 samples **unshuffled**.
+    -  **Step2.** For the 5 samples **shuffled**.
 
 ## 7- Using GTF-Compare to Compare the Generated Annotation Files to a Reference Annotation.
 
