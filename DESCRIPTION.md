@@ -35,7 +35,7 @@ Link to the suggested data: https://www.ncbi.nlm.nih.gov/sra/?term=SRR8797509
 ## 4- Trimming
 
 - For **All Samples** , Apply:
-    - Mild Trimming for SX_1. {unshuffled}
+    - Mild Trimming for SX_1. {shuffled}
     - Aggressive Trimming for SX_2. {unshuffled}
 
 ## 5- Alignment
