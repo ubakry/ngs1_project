@@ -9,7 +9,7 @@ This project aims to practice most of the technologies and software you've learn
 
 - For each step, document your workflow and commands, scripts to reproduce the same expirement.
 - **Everything** must be reported and documented on Github.
-- **Fork** this project and start your start commiting.
+- **Fork** this project and start commiting.
 - Create a file named `user_info.md` and write down your full name, alongside your **Nile Universty** email address and **Student ID**.
 
 ---
