@@ -1,0 +1,13 @@
+Status	../assignment-data//results/diff-res/bwa/S1.bam	../assignment-data//results/diff-res/bwa/S2.bam	../assignment-data//results/diff-res/bwa/S3.bam	../assignment-data//results/diff-res/bwa/S4.bam	../assignment-data//results/diff-res/bwa/S5.bam	../assignment-data//results/diff-res/hisat/S1.bam	../assignment-data//results/diff-res/hisat/S2.bam	../assignment-data//results/diff-res/hisat/S3.bam	../assignment-data//results/diff-res/hisat/S4.bam	../assignment-data//results/diff-res/hisat/S5.bam
+Assigned	2226396	2231001	2228588	2229772	2227419	0	0	0	0	0
+Unassigned_Unmapped	1525	1532	1613	1541	1608	128726	129478	129538	129344	129266
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	3219736	3223571	3216336	3216846	3216399
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	137457	138166	137766	138024	138224	432548	432705	433834	432852	433132
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	181824	181300	181190	181967	182673	0	0	0	0	0

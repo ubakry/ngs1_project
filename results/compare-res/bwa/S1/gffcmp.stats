@@ -1,0 +1,29 @@
+# gffcompare v0.10.6 | Command line was:
+#gffcompare -r ../../../../db/gencode.v30.annotation.gtf ../../../assembly-res/bwa/S1/S1.gtf
+#
+
+#= Summary for dataset: ../../../assembly-res/bwa/S1/S1.gtf 
+#     Query mRNAs :   21487 in   21358 loci  (0 multi-exon transcripts)
+#            (0 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :  206887 in   55007 loci  (181966 multi-exon)
+# Super-loci w/ reference transcripts:    10134
+#-----------------| Sensitivity | Precision  |
+        Base level:    12.7     |    94.0    |
+        Exon level:     1.3     |    28.9    |
+      Intron level:     0.0     |    -nan    |
+Intron chain level:     0.0     |    -nan    |
+  Transcript level:     2.2     |    20.8    |
+       Locus level:     7.7     |    20.4    |
+
+     Matching intron chains:       0
+       Matching transcripts:    4459
+              Matching loci:    4240
+
+          Missed exons:  526794/592897	( 88.9%)
+           Novel exons:    1563/21484	(  7.3%)
+        Missed introns:  363745/363745	(100.0%)
+           Missed loci:   44112/55007	( 80.2%)
+            Novel loci:    1539/21358	(  7.2%)
+
+ Total union super-loci across all input datasets: 12022 
+21487 out of 21487 consensus transcripts written in gffcmp.annotated.gtf (0 discarded as redundant)

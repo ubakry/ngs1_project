@@ -1,0 +1,30 @@
+# gffcompare v0.10.6 | Command line was:
+#gffcompare -r ../../../../db/gencode.v30.annotation.gtf ../../../assembly-res/hisat/S5/S5.gtf
+#
+
+#= Summary for dataset: ../../../assembly-res/hisat/S5/S5.gtf 
+#     Query mRNAs :   11226 in   11205 loci  (716 multi-exon transcripts)
+#            (19 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :  206887 in   55007 loci  (181966 multi-exon)
+# Super-loci w/ reference transcripts:        0
+#-----------------| Sensitivity | Precision  |
+        Base level:     0.0     |     0.0    |
+        Exon level:     0.0     |     0.0    |
+      Intron level:     0.0     |     0.0    |
+Intron chain level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:  592897/592897	(100.0%)
+           Novel exons:   12113/12113	(100.0%)
+        Missed introns:  363745/363745	(100.0%)
+         Novel introns:     887/887	(100.0%)
+           Missed loci:   55007/55007	(100.0%)
+            Novel loci:   11205/11205	(100.0%)
+
+ Total union super-loci across all input datasets: 11205 
+11226 out of 11226 consensus transcripts written in gffcmp.annotated.gtf (0 discarded as redundant)
